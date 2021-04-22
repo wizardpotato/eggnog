@@ -4,3 +4,5 @@ Eggnog is python based crypto ticker. It will work inside a terminal. You have t
 For now, you don't have an option, as its only a web-scraper with bitcoin currency scraper, and not much code. Ticker shows BTC/USDT values.
 
 Bitcoin price is scraped from [coinlivewatch.com](https://www.livecoinwatch.com/).
+
+You'll need **beautifulsoup4**, **requests**. 
